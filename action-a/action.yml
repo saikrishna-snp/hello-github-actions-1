@@ -7,6 +7,10 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  Company_Name:
+    description: "Name of the company"
+    required: true
+    default: "Tiger"
 
 runs:
   using: "docker"
