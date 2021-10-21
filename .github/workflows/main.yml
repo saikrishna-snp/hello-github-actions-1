@@ -10,5 +10,5 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Mona"
-          Company_Name: "SNP-Tech"
+          COMPANY_NAME: "SNP-Tech"
 
